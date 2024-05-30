@@ -4,7 +4,7 @@ MyClass::MyClass() {
 }
 
 MyClass::MyClass(std::string s_) { 
-  s = s_; 
+  s = s_;
 }
 
 std::string MyClass::getS() { 

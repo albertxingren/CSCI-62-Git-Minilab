@@ -9,4 +9,7 @@ int main () {
 
   MyClass a("welcome");
   cout << a.getS() << endl;
+
+  return 0;
+  
 }

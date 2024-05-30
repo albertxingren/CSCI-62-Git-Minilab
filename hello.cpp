@@ -7,6 +7,6 @@ int main () {
   cout << "Hello World" << endl;
   cout << "How are you doing today?" << endl;
 
-  MyClass a(5);
-  cout << a.getX() << endl;
+  MyClass a("welcome");
+  cout << a.getS() << endl;
 }

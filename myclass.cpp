@@ -3,10 +3,10 @@
 MyClass::MyClass() {
 }
 
-MyClass::MyClass(int x_) { 
-  x = x_; 
+MyClass::MyClass(std::string s_) { 
+  s = s_; 
 }
 
-int MyClass::getX() { 
-  return x; 
+std::string MyClass::getS() { 
+  return s; 
 }

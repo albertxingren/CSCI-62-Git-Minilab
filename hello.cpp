@@ -11,6 +11,7 @@ int main () {
   cout << a.getS() << endl;
 
   cout << "thank you and goodbye!" << endl;
+  cout << "end of program" << endl;
 
   return 0;
 

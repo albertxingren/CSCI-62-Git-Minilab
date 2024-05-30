@@ -10,6 +10,8 @@ int main () {
   MyClass a("welcome");
   cout << a.getS() << endl;
 
+  cout << "goodbye" << endl;
+
   return 0;
-  
+
 }
